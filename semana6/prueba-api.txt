@@ -1,0 +1,14 @@
+Probé con HTTPBot en iPhone enviando POST a http://127.0.0.1:3000/registro
+
+JSON enviado:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
